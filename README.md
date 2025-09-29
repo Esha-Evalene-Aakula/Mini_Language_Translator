@@ -45,4 +45,6 @@ It demonstrates the use of pretrained sequence-to-sequence models for natural la
 
 ---
 Sample Output:
+
+
 <img width="515" height="267" alt="image" src="https://github.com/user-attachments/assets/82368514-2775-4518-9af8-0f09bca84d5b" />
