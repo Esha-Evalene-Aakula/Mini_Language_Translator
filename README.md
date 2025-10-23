@@ -1,4 +1,4 @@
-# Mini Language Translator (Task 1)
+# Mini Language Translator 
 
 ## Objective
 The goal of this project is to build a simple translator that converts English sentences into Hindi.  
