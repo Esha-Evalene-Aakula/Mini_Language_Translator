@@ -34,7 +34,8 @@ Development Environment	-> Google Colab / Jupyter Notebook
 - Each data entry contains an English sentence and its corresponding Hindi translation
 
   Example:
-  <img width="317" height="74" alt="image" src="https://github.com/user-attachments/assets/29b232ba-29e4-4617-bb26-41e4a867a742" />
+  
+<img width="317" height="74" alt="image" src="https://github.com/user-attachments/assets/29b232ba-29e4-4617-bb26-41e4a867a742" />
 
 
 ### Model Loading
@@ -50,6 +51,11 @@ Development Environment	-> Google Colab / Jupyter Notebook
 
 - Translated Hindi sentences are displayed alongside the original English input
 - Output is printed directly in the notebook or script for easy comparison
+
+### Sample Output
+
+<img width="630" height="327" alt="image" src="https://github.com/user-attachments/assets/60fc05f8-40ff-47f2-a732-81b17c79fa60" />
+
 
 ## Project Structure
 
