@@ -1,7 +1,7 @@
 import pandas as pd
 from transformers import MarianMTModel, MarianTokenizer
 
-# Step 1: Create dataset
+# Step 1: dataset creation
 data = [
     ["Hello, how are you?", "नमस्ते, आप कैसे हैं?"],
     ["I enjoy studying.", "मुझे पढ़ाई करना पसंद है।"],
